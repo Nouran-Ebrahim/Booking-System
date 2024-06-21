@@ -1,6 +1,6 @@
 # Booking System
 ## Description
-A hotel booking system with multi authentication as admin and employee for the dashboard with roles and permissions.
+A hotel Booking System with multi authentication as admin and employee for the dashboard with roles and permissions.
 
 Apis for user authentication , booking and get available rooms.
 
